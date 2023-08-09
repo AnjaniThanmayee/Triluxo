@@ -15,5 +15,5 @@ Comment on a Blog
 
 Implemented these functionalities using 
 Frontend-React.js
-Backend-Node.js(EXpress.js)
+Backend-Node.js(Express.js)
 DataBase-MySql
